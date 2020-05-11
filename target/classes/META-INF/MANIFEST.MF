@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: xhb
+Build-Jdk: 11.0.6
+Implementation-Title: my-blog
+Implementation-Version: 4.0.0-SNAPSHOT
+Implementation-Vendor-Id: com.site.blog.my.core
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/my-blog
+Created-By: Maven Integration for Eclipse
+
